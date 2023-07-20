@@ -1,0 +1,31 @@
+@media screen and (max-width:400px) {
+    .nav-container{
+        flex-direction: column;
+    }
+    .item-container{
+        flex-direction: column;
+       width: 100%; 
+        
+    }
+.banner{
+    flex-direction: column;
+}
+.banner-img{
+    flex-direction: column;
+    width: 100%;
+}
+        .playful{
+           flex-direction: column;
+            
+        }
+.play-des{
+width: 100%;
+}
+.play-img{
+width: 100%;
+flex-direction: column;
+}
+.playful{
+    flex-direction: column;
+}
+}
